@@ -1,0 +1,101 @@
+Segment,Country, Product , Discount Band ,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts, Sales,COGS,Profit,Year
+Channel Partners,Canada, Carretera , Low ,1295,3,12,"15,540",311,"15,229","3,885","11,344",2019
+Small Business,Germany, Carretera , Low ,214,3,300,"64,200","1,284","62,916","53,500","9,416",2019
+Government,France, Carretera , Low ,2145,3,7,"15,015",300,"14,715","10,725","3,990",2019
+Government,Canada, Carretera , Low ,2852,3,350,"998,200","19,964","978,236","741,520","236,716",2019
+Channel Partners,United States of America, Montana , Low ,1142,5,12,"13,704",274,"13,430","3,426","10,004",2019
+Government,United States of America, Montana , Low ,1566,5,20,"31,320",626,"30,694","15,660","15,034",2019
+Channel Partners,Mexico, Montana , Low ,690,5,12,"8,280",166,"8,114","2,070","6,044",2019
+Enterprise,Mexico, Montana , Low ,1660,5,125,"207,500","4,150","203,350","199,200","4,150",2019
+Midmarket,Canada, Paseo , Low ,2363,10,15,"35,445",709,"34,736","23,630","11,106",2019
+Small Business,France, Paseo , Low ,918,10,300,"275,400","5,508","269,892","229,500","40,392",2019
+Small Business,Germany, Paseo , Low ,1728,10,300,"518,400","10,368","508,032","432,000","76,032",2019
+Channel Partners,United States of America, Paseo , Low ,1142,10,12,"13,704",274,"13,430","3,426","10,004",2019
+Enterprise,Mexico, Paseo , Low ,662,10,125,"82,750","1,655","81,095","79,440","1,655",2019
+Channel Partners,Canada, Paseo , Low ,1295,10,12,"15,540",311,"15,229","3,885","11,344",2019
+Enterprise,Germany, Paseo , Low ,809,10,125,"101,125","2,023","99,103","97,080","2,023",2019
+Enterprise,Mexico, Paseo , Low ,2145,10,125,"268,125","5,363","262,763","257,400","5,363",2019
+Channel Partners,France, Paseo , Low ,1785,10,12,"21,420",428,"20,992","5,355","15,637",2019
+Small Business,Canada, Paseo , Low ,1916,10,300,"574,800","11,496","563,304","479,000","84,304",2019
+Government,Canada, Paseo , Low ,2852,10,350,"998,200","19,964","978,236","741,520","236,716",2019
+Enterprise,Canada, Paseo , Low ,2729,10,125,"341,125","6,823","334,303","327,480","6,823",2019
+Midmarket,United States of America, Paseo , Low ,1925,10,15,"28,875",578,"28,298","19,250","9,048",2019
+Government,United States of America, Paseo , Low ,2013,10,7,"14,091",282,"13,809","10,065","3,744",2019
+Channel Partners,France, Paseo , Low ,1055,10,12,"12,660",253,"12,407","3,165","9,242",2019
+Channel Partners,Mexico, Paseo , Low ,1084,10,12,"13,008",260,"12,748","3,252","9,496",2019
+Government,United States of America, Velo , Low ,1566,120,20,"31,320",626,"30,694","15,660","15,034",2019
+Government,Germany, Velo , Low ,2966,120,350,"1,038,100","20,762","1,017,338","771,160","246,178",2019
+Government,Germany, Velo , Low ,2877,120,350,"1,006,950","20,139","986,811","748,020","238,791",2019
+Enterprise,Germany, Velo , Low ,809,120,125,"101,125","2,023","99,103","97,080","2,023",2019
+Enterprise,Mexico, Velo , Low ,2145,120,125,"268,125","5,363","262,763","257,400","5,363",2019
+Channel Partners,France, Velo , Low ,1055,120,12,"12,660",253,"12,407","3,165","9,242",2019
+Government,Mexico, Velo , Low ,544,120,20,"10,880",218,"10,662","5,440","5,222",2019
+Channel Partners,Mexico, Velo , Low ,1084,120,12,"13,008",260,"12,748","3,252","9,496",2019
+Enterprise,Mexico, VTT , Low ,662,250,125,"82,750","1,655","81,095","79,440","1,655",2019
+Small Business,Germany, VTT , Low ,214,250,300,"64,200","1,284","62,916","53,500","9,416",2019
+Government,Germany, VTT , Low ,2877,250,350,"1,006,950","20,139","986,811","748,020","238,791",2019
+Enterprise,Canada, VTT , Low ,2729,250,125,"341,125","6,823","334,303","327,480","6,823",2019
+Government,United States of America, VTT , Low ,266,250,350,"93,100","1,862","91,238","69,160","22,078",2019
+Government,Mexico, VTT , Low ,1940,250,350,"679,000","13,580","665,420","504,400","161,020",2019
+Small Business,Germany, Amarilla , Low ,259,260,300,"77,700","1,554","76,146","64,750","11,396",2019
+Small Business,Mexico, Amarilla , Low ,1101,260,300,"330,300","6,606","323,694","275,250","48,444",2019
+Enterprise,Germany, Amarilla , Low ,2276,260,125,"284,500","5,690","278,810","273,120","5,690",2019
+Government,Germany, Amarilla , Low ,2966,260,350,"1,038,100","20,762","1,017,338","771,160","246,178",2019
+Government,United States of America, Amarilla , Low ,1236,260,20,"24,720",494,"24,226","12,360","11,866",2019
+Government,France, Amarilla , Low ,941,260,20,"18,820",376,"18,444","9,410","9,034",2019
+Small Business,Canada, Amarilla , Low ,1916,260,300,"574,800","11,496","563,304","479,000","84,304",2019
+Enterprise,France, Carretera , Low ,4243.5,3,125,"530,438","15,913","514,524","509,220","5,304",2019
+Government,Germany, Carretera , Low ,2580,3,20,"51,600","1,548","50,052","25,800","24,252",2019
+Small Business,Germany, Carretera , Low ,689,3,300,"206,700","6,201","200,499","172,250","28,249",2019
+Channel Partners,United States of America, Carretera , Low ,1947,3,12,"23,364",701,"22,663","5,841","16,822",2019
+Channel Partners,Canada, Carretera , Low ,908,3,12,"10,896",327,"10,569","2,724","7,845",2019
+Government,Germany, Montana , Low ,1958,5,7,"13,706",411,"13,295","9,790","3,505",2019
+Channel Partners,France, Montana , Low ,1901,5,12,"22,812",684,"22,128","5,703","16,425",2019
+Government,France, Montana , Low ,544,5,7,"3,808",114,"3,694","2,720",974,2019
+Government,Germany, Montana , Low ,1797,5,350,"628,950","18,869","610,082","467,220","142,862",2019
+Enterprise,France, Montana , Low ,1287,5,125,"160,875","4,826","156,049","154,440","1,609",2019
+Enterprise,Germany, Montana , Low ,1706,5,125,"213,250","6,398","206,853","204,720","2,133",2019
+Small Business,France, Paseo , Low ,2434.5,10,300,"730,350","21,911","708,440","608,625","99,815",2019
+Enterprise,Canada, Paseo , Low ,1774,10,125,"221,750","6,653","215,098","212,880","2,218",2019
+Channel Partners,France, Paseo , Low ,1901,10,12,"22,812",684,"22,128","5,703","16,425",2019
+Small Business,Germany, Paseo , Low ,689,10,300,"206,700","6,201","200,499","172,250","28,249",2019
+Enterprise,Germany, Paseo , Low ,1570,10,125,"196,250","5,888","190,363","188,400","1,963",2019
+Channel Partners,United States of America, Paseo , Low ,1369.5,10,12,"16,434",493,"15,941","4,109","11,832",2019
+Enterprise,Canada, Paseo , Low ,2009,10,125,"251,125","7,534","243,591","241,080","2,511",2019
+Midmarket,Germany, Paseo , Low ,1945,10,15,"29,175",875,"28,300","19,450","8,850",2019
+Enterprise,France, Paseo , Low ,1287,10,125,"160,875","4,826","156,049","154,440","1,609",2019
+Enterprise,Germany, Paseo , Low ,1706,10,125,"213,250","6,398","206,853","204,720","2,133",2019
+Enterprise,Canada, Velo , Low ,2009,120,125,"251,125","7,534","243,591","241,080","2,511",2019
+Small Business,United States of America, VTT , Low ,2844,250,300,"853,200","25,596","827,604","711,000","116,604",2019
+Channel Partners,Mexico, VTT , Low ,1916,250,12,"22,992",690,"22,302","5,748","16,554",2019
+Enterprise,Germany, VTT , Low ,1570,250,125,"196,250","5,888","190,363","188,400","1,963",2019
+Small Business,Canada, VTT , Low ,1874,250,300,"562,200","16,866","545,334","468,500","76,834",2019
+Government,Mexico, VTT , Low ,1642,250,350,"574,700","17,241","557,459","426,920","130,539",2019
+Midmarket,Germany, VTT , Low ,1945,250,15,"29,175",875,"28,300","19,450","8,850",2019
+Government,Canada, Carretera , Low ,831,3,20,"16,620",499,"16,121","8,310","7,811",2019
+Government,Mexico, Paseo , Low ,1760,10,7,"12,320",370,"11,950","8,800","3,150",2019
+Government,Canada, Velo , Low ,3850.5,120,20,"77,010","2,310","74,700","38,505","36,195",2019
+Channel Partners,Germany, VTT , Low ,2479,250,12,"29,748",892,"28,856","7,437","21,419",2019
+Midmarket,Mexico, Montana , Low ,2031,5,15,"30,465","1,219","29,246","20,310","8,936",2019
+Midmarket,Mexico, Paseo , Low ,2031,10,15,"30,465","1,219","29,246","20,310","8,936",2019
+Midmarket,France, Paseo , Low ,2261,10,15,"33,915","1,357","32,558","22,610","9,948",2019
+Government,United States of America, Velo , Low ,736,120,20,"14,720",589,"14,131","7,360","6,771",2019
+Government,Canada, Carretera , Low ,2851,3,7,"19,957",798,"19,159","14,255","4,904",2019
+Small Business,Germany, Carretera , Low ,2021,3,300,"606,300","24,252","582,048","505,250","76,798",2019
+Government,United States of America, Carretera , Low ,274,3,350,"95,900","3,836","92,064","71,240","20,824",2019
+Midmarket,Canada, Montana , Low ,1967,5,15,"29,505","1,180","28,325","19,670","8,655",2019
+Small Business,Germany, Montana , Low ,1859,5,300,"557,700","22,308","535,392","464,750","70,642",2019
+Government,Canada, Montana , Low ,2851,5,7,"19,957",798,"19,159","14,255","4,904",2019
+Small Business,Germany, Montana , Low ,2021,5,300,"606,300","24,252","582,048","505,250","76,798",2019
+Enterprise,Mexico, Montana , Low ,1138,5,125,"142,250","5,690","136,560","136,560",0,2019
+Government,Canada, Paseo , Low ,4251,10,7,"29,757","1,190","28,567","21,255","7,312",2019
+Enterprise,Germany, Paseo , Low ,795,10,125,"99,375","3,975","95,400","95,400",0,2019
+Small Business,Germany, Paseo , Low ,1414.5,10,300,"424,350","16,974","407,376","353,625","53,751",2019
+Small Business,United States of America, Paseo , Low ,2918,10,300,"875,400","35,016","840,384","729,500","110,884",2019
+Government,United States of America, Paseo , Low ,3450,10,350,"1,207,500","48,300","1,159,200","897,000","262,200",2019
+Enterprise,France, Paseo , Low ,2988,10,125,"373,500","14,940","358,560","358,560",0,2019
+Midmarket,Canada, Paseo , Low ,218,10,15,"3,270",131,"3,139","2,180",959,2019
+Government,Canada, Paseo , Low ,2074,10,20,"41,480","1,659","39,821","20,740","19,081",2019
+Government,United States of America, Paseo , Low ,1056,10,20,"21,120",845,"20,275","10,560","9,715",2019
+Midmarket,United States of America, Paseo , Low ,671,10,15,"10,065",403,"9,662","6,710","2,952",2019
+Midmarket,Mexico, Paseo , Low ,1514,10,15,"22,710",908,"21,802","15,140","6,662",2019

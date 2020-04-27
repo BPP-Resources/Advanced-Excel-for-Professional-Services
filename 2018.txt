@@ -1,0 +1,100 @@
+Segment	Country	 Product 	 Discount Band 	Units Sold	Manufacturing Price	Sale Price	Gross Sales	Discounts	 Sales	COGS	Profit	Year
+Government	Canada	 Carretera 	 None 	1618.5	3	20	"32,370"	0	"32,370"	"16,185"	"16,185"	2018
+Government	Germany	 Carretera 	 None 	1321	3	20	"26,420"	0	"26,420"	"13,210"	"13,210"	2018
+Midmarket	France	 Carretera 	 None 	2178	3	15	"32,670"	0	"32,670"	"21,780"	"10,890"	2018
+Midmarket	Germany	 Carretera 	 None 	888	3	15	"13,320"	0	"13,320"	"8,880"	"4,440"	2018
+Midmarket	Mexico	 Carretera 	 None 	2470	3	15	"37,050"	0	"37,050"	"24,700"	"12,350"	2018
+Government	Germany	 Carretera 	 None 	1513	3	350	"529,550"	0	"529,550"	"393,380"	"136,170"	2018
+Midmarket	Germany	 Montana 	 None 	921	5	15	"13,815"	0	"13,815"	"9,210"	"4,605"	2018
+Channel Partners	Canada	 Montana 	 None 	2518	5	12	"30,216"	0	"30,216"	"7,554"	"22,662"	2018
+Government	France	 Montana 	 None 	1899	5	20	"37,980"	0	"37,980"	"18,990"	"18,990"	2018
+Channel Partners	Germany	 Montana 	 None 	1545	5	12	"18,540"	0	"18,540"	"4,635"	"13,905"	2018
+Midmarket	Mexico	 Montana 	 None 	2470	5	15	"37,050"	0	"37,050"	"24,700"	"12,350"	2018
+Enterprise	Canada	 Montana 	 None 	2665.5	5	125	"333,188"	0	"333,188"	"319,860"	"13,328"	2018
+Small Business	Mexico	 Montana 	 None 	958	5	300	"287,400"	0	"287,400"	"239,500"	"47,900"	2018
+Government	Germany	 Montana 	 None 	2146	5	7	"15,022"	0	"15,022"	"10,730"	"4,292"	2018
+Enterprise	Canada	 Montana 	 None 	345	5	125	"43,125"	0	"43,125"	"41,400"	"1,725"	2018
+Midmarket	United States of America	 Montana 	 None 	615	5	15	"9,225"	0	"9,225"	"6,150"	"3,075"	2018
+Government	Canada	 Paseo 	 None 	292	10	20	"5,840"	0	"5,840"	"2,920"	"2,920"	2018
+Midmarket	Mexico	 Paseo 	 None 	974	10	15	"14,610"	0	"14,610"	"9,740"	"4,870"	2018
+Channel Partners	Canada	 Paseo 	 None 	2518	10	12	"30,216"	0	"30,216"	"7,554"	"22,662"	2018
+Government	Germany	 Paseo 	 None 	1006	10	350	"352,100"	0	"352,100"	"261,560"	"90,540"	2018
+Channel Partners	Germany	 Paseo 	 None 	367	10	12	"4,404"	0	"4,404"	"1,101"	"3,303"	2018
+Government	Mexico	 Paseo 	 None 	883	10	7	"6,181"	0	"6,181"	"4,415"	"1,766"	2018
+Midmarket	France	 Paseo 	 None 	549	10	15	"8,235"	0	"8,235"	"5,490"	"2,745"	2018
+Small Business	Mexico	 Paseo 	 None 	788	10	300	"236,400"	0	"236,400"	"197,000"	"39,400"	2018
+Midmarket	Mexico	 Paseo 	 None 	2472	10	15	"37,080"	0	"37,080"	"24,720"	"12,360"	2018
+Government	United States of America	 Paseo 	 None 	1143	10	7	"8,001"	0	"8,001"	"5,715"	"2,286"	2018
+Government	Canada	 Paseo 	 None 	1725	10	350	"603,750"	0	"603,750"	"448,500"	"155,250"	2018
+Channel Partners	United States of America	 Paseo 	 None 	912	10	12	"10,944"	0	"10,944"	"2,736"	"8,208"	2018
+Midmarket	Canada	 Paseo 	 None 	2152	10	15	"32,280"	0	"32,280"	"21,520"	"10,760"	2018
+Government	Canada	 Paseo 	 None 	1817	10	20	"36,340"	0	"36,340"	"18,170"	"18,170"	2018
+Government	Germany	 Paseo 	 None 	1513	10	350	"529,550"	0	"529,550"	"393,380"	"136,170"	2018
+Government	Mexico	 Velo 	 None 	1493	120	7	"10,451"	0	"10,451"	"7,465"	"2,986"	2018
+Enterprise	France	 Velo 	 None 	1804	120	125	"225,500"	0	"225,500"	"216,480"	"9,020"	2018
+Channel Partners	Germany	 Velo 	 None 	2161	120	12	"25,932"	0	"25,932"	"6,483"	"19,449"	2018
+Government	Germany	 Velo 	 None 	1006	120	350	"352,100"	0	"352,100"	"261,560"	"90,540"	2018
+Channel Partners	Germany	 Velo 	 None 	1545	120	12	"18,540"	0	"18,540"	"4,635"	"13,905"	2018
+Enterprise	United States of America	 Velo 	 None 	2821	120	125	"352,625"	0	"352,625"	"338,520"	"14,105"	2018
+Enterprise	Canada	 Velo 	 None 	345	120	125	"43,125"	0	"43,125"	"41,400"	"1,725"	2018
+Small Business	Canada	 VTT 	 None 	2001	250	300	"600,300"	0	"600,300"	"500,250"	"100,050"	2018
+Channel Partners	Germany	 VTT 	 None 	2838	250	12	"34,056"	0	"34,056"	"8,514"	"25,542"	2018
+Midmarket	France	 VTT 	 None 	2178	250	15	"32,670"	0	"32,670"	"21,780"	"10,890"	2018
+Midmarket	Germany	 VTT 	 None 	888	250	15	"13,320"	0	"13,320"	"8,880"	"4,440"	2018
+Government	France	 VTT 	 None 	1527	250	350	"534,450"	0	"534,450"	"397,020"	"137,430"	2018
+Small Business	France	 VTT 	 None 	2151	250	300	"645,300"	0	"645,300"	"537,750"	"107,550"	2018
+Government	Canada	 VTT 	 None 	1817	250	20	"36,340"	0	"36,340"	"18,170"	"18,170"	2018
+Government	France	 Amarilla 	 None 	2750	260	350	"962,500"	0	"962,500"	"715,000"	"247,500"	2018
+Channel Partners	United States of America	 Amarilla 	 None 	1953	260	12	"23,436"	0	"23,436"	"5,859"	"17,577"	2018
+Enterprise	Germany	 Amarilla 	 None 	4219.5	260	125	"527,438"	0	"527,438"	"506,340"	"21,098"	2018
+Government	France	 Amarilla 	 None 	1899	260	20	"37,980"	0	"37,980"	"18,990"	"18,990"	2018
+Government	Germany	 Amarilla 	 None 	1686	260	7	"11,802"	0	"11,802"	"8,430"	"3,372"	2018
+Channel Partners	United States of America	 Amarilla 	 None 	2141	260	12	"25,692"	0	"25,692"	"6,423"	"19,269"	2018
+Government	United States of America	 Amarilla 	 None 	1143	260	7	"8,001"	0	"8,001"	"5,715"	"2,286"	2018
+Midmarket	United States of America	 Amarilla 	 None 	615	260	15	"9,225"	0	"9,225"	"6,150"	"3,075"	2018
+Government	France	 Paseo 	 Low 	3945	10	7	"27,615"	276	"27,339"	"19,725"	"7,614"	2018
+Midmarket	France	 Paseo 	 Low 	2296	10	15	"34,440"	344	"34,096"	"22,960"	"11,136"	2018
+Government	France	 Paseo 	 Low 	1030	10	7	"7,210"	72	"7,138"	"5,150"	"1,988"	2018
+Government	France	 Velo 	 Low 	639	120	7	"4,473"	45	"4,428"	"3,195"	"1,233"	2018
+Government	Canada	 VTT 	 Low 	1326	250	7	"9,282"	93	"9,189"	"6,630"	"2,559"	2018
+Channel Partners	United States of America	 Carretera 	 Low 	1858	3	12	"22,296"	223	"22,073"	"5,574"	"16,499"	2018
+Government	Mexico	 Carretera 	 Low 	1210	3	350	"423,500"	"4,235"	"419,265"	"314,600"	"104,665"	2018
+Government	United States of America	 Carretera 	 Low 	2529	3	7	"17,703"	177	"17,526"	"12,645"	"4,881"	2018
+Channel Partners	Canada	 Carretera 	 Low 	1445	3	12	"17,340"	173	"17,167"	"4,335"	"12,832"	2018
+Enterprise	United States of America	 Carretera 	 Low 	330	3	125	"41,250"	413	"40,838"	"39,600"	"1,238"	2018
+Channel Partners	France	 Carretera 	 Low 	2671	3	12	"32,052"	321	"31,731"	"8,013"	"23,718"	2018
+Channel Partners	Germany	 Carretera 	 Low 	766	3	12	"9,192"	92	"9,100"	"2,298"	"6,802"	2018
+Small Business	Mexico	 Carretera 	 Low 	494	3	300	"148,200"	"1,482"	"146,718"	"123,500"	"23,218"	2018
+Government	Mexico	 Carretera 	 Low 	1397	3	350	"488,950"	"4,890"	"484,061"	"363,220"	"120,841"	2018
+Government	France	 Carretera 	 Low 	2155	3	350	"754,250"	"7,543"	"746,708"	"560,300"	"186,408"	2018
+Midmarket	Mexico	 Montana 	 Low 	2214	5	15	"33,210"	332	"32,878"	"22,140"	"10,738"	2018
+Small Business	United States of America	 Montana 	 Low 	2301	5	300	"690,300"	"6,903"	"683,397"	"575,250"	"108,147"	2018
+Government	France	 Montana 	 Low 	1375.5	5	20	"27,510"	275	"27,235"	"13,755"	"13,480"	2018
+Government	Canada	 Montana 	 Low 	1830	5	7	"12,810"	128	"12,682"	"9,150"	"3,532"	2018
+Small Business	United States of America	 Montana 	 Low 	2498	5	300	"749,400"	"7,494"	"741,906"	"624,500"	"117,406"	2018
+Enterprise	United States of America	 Montana 	 Low 	663	5	125	"82,875"	829	"82,046"	"79,560"	"2,486"	2018
+Midmarket	United States of America	 Paseo 	 Low 	1514	10	15	"22,710"	227	"22,483"	"15,140"	"7,343"	2018
+Government	United States of America	 Paseo 	 Low 	4492.5	10	7	"31,448"	314	"31,133"	"22,463"	"8,671"	2018
+Enterprise	United States of America	 Paseo 	 Low 	727	10	125	"90,875"	909	"89,966"	"87,240"	"2,726"	2018
+Enterprise	France	 Paseo 	 Low 	787	10	125	"98,375"	984	"97,391"	"94,440"	"2,951"	2018
+Enterprise	Mexico	 Paseo 	 Low 	1823	10	125	"227,875"	"2,279"	"225,596"	"218,760"	"6,836"	2018
+Midmarket	Germany	 Paseo 	 Low 	747	10	15	"11,205"	112	"11,093"	"7,470"	"3,623"	2018
+Channel Partners	Germany	 Paseo 	 Low 	766	10	12	"9,192"	92	"9,100"	"2,298"	"6,802"	2018
+Small Business	United States of America	 Paseo 	 Low 	2905	10	300	"871,500"	"8,715"	"862,785"	"726,250"	"136,535"	2018
+Government	France	 Paseo 	 Low 	2155	10	350	"754,250"	"7,543"	"746,708"	"560,300"	"186,408"	2018
+Government	France	 Velo 	 Low 	3864	120	20	"77,280"	773	"76,507"	"38,640"	"37,867"	2018
+Government	Mexico	 Velo 	 Low 	362	120	7	"2,534"	25	"2,509"	"1,810"	699	2018
+Enterprise	Canada	 Velo 	 Low 	923	120	125	"115,375"	"1,154"	"114,221"	"110,760"	"3,461"	2018
+Enterprise	United States of America	 Velo 	 Low 	663	120	125	"82,875"	829	"82,046"	"79,560"	"2,486"	2018
+Government	Canada	 Velo 	 Low 	2092	120	7	"14,644"	146	"14,498"	"10,460"	"4,038"	2018
+Government	Germany	 VTT 	 Low 	263	250	7	"1,841"	18	"1,823"	"1,315"	508	2018
+Government	Canada	 VTT 	 Low 	943.5	250	350	"330,225"	"3,302"	"326,923"	"245,310"	"81,613"	2018
+Enterprise	United States of America	 VTT 	 Low 	727	250	125	"90,875"	909	"89,966"	"87,240"	"2,726"	2018
+Enterprise	France	 VTT 	 Low 	787	250	125	"98,375"	984	"97,391"	"94,440"	"2,951"	2018
+Small Business	Germany	 VTT 	 Low 	986	250	300	"295,800"	"2,958"	"292,842"	"246,500"	"46,342"	2018
+Small Business	Mexico	 VTT 	 Low 	494	250	300	"148,200"	"1,482"	"146,718"	"123,500"	"23,218"	2018
+Government	Mexico	 VTT 	 Low 	1397	250	350	"488,950"	"4,890"	"484,061"	"363,220"	"120,841"	2018
+Enterprise	France	 VTT 	 Low 	1744	250	125	"218,000"	"2,180"	"215,820"	"209,280"	"6,540"	2018
+Channel Partners	United States of America	 Amarilla 	 Low 	1989	260	12	"23,868"	239	"23,629"	"5,967"	"17,662"	2018
+Midmarket	France	 Amarilla 	 Low 	321	260	15	"4,815"	48	"4,767"	"3,210"	"1,557"	2018
+Enterprise	Canada	 Carretera 	 Low 	742.5	3	125	"92,813"	"1,856"	"90,956"	"89,100"	"1,856"	2018

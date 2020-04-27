@@ -1,0 +1,20 @@
+ Payroll Run Date 	 Reference 	 Paid To 	 Description 	 Payment Amount 	 Payment Type 
+25/03/2020	EXS001	Taylor AE	Net Salary	"£93,904"	EMP
+25/03/2020	EXS002	Smith F	Net Salary	"£75,610"	EMP
+25/03/2020	EXS003	Wilson PG	Net Salary	"£27,217"	EMP
+25/03/2020	EXS004	Osborne S	Net Salary	"£32,523"	EMP
+25/03/2020	EXS005	Miller R	Net Salary	"£30,470"	EMP
+25/03/2020	EXS006	Andrews MS	Net Salary	"£40,663"	EMP
+25/03/2020	EXS007	Phillips KE	Net Salary	"£20,970"	EMP
+25/03/2020	EXS008	Matthews B	Net Salary	"£8,537"	EMP
+25/03/2020	EXS009	Brown JT	Net Salary	"£8,537"	EMP
+25/03/2020	EXS010	Lewis I	Net Salary	"£8,537"	EMP
+25/03/2020	EXS011	Newport GD	Net Salary	"£4,950"	EMP
+25/03/2020	EXS012	Williams VS	Net Salary	"£4,950"	EMP
+25/03/2020	EXS013	East WD	Net Salary	"£4,950"	EMP
+25/03/2020	TAX	SARS	PAYE	"£111,268"	DC
+25/03/2020	UIF	SARS	UIF	"£2,790"	DC
+25/03/2020	PENS	Sanlam Glacier	Pension Fund	"£65,770"	DC
+25/03/2020	M-AID	Discovery	Medical Aid	"£8,955"	DC
+25/03/2020	LAPTOP	Journal	Laptop Repayment	"£1,200"	DC
+25/03/2020	SDL	SARS	SDL	"£5,209"	DC
